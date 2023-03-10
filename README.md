@@ -43,7 +43,6 @@
 ## Project Image
 ![Screenshot 2023-03-10 201950](https://user-images.githubusercontent.com/113298266/224347187-253f6079-1531-433b-9757-52c124524fff.png)
 ## Small Device
-![127 0 0 1_5500_Project-5_10feb html(Samsung Galaxy S20 Ultra)](https://user-images.githubusercontent.com/113298266/224347480-f498e6fa-0114-48bf-a38a-edd05c5f4046.png)
-
+![media](https://user-images.githubusercontent.com/113298266/224350463-c4f98d6e-5f6a-4954-9bd9-397a623a96d7.png)
 
 
