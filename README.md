@@ -68,7 +68,7 @@
 
 
 # [Project-7](https://github.com/Veersen2001/Web-Projects/tree/master/Project-7)
-# [Project Live Link]()
+# [Project Live Link](https://pw-skill-project-assignment-5-feb.netlify.app/)
 ## Technology
 - HTML
 - CSS
