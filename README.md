@@ -47,19 +47,21 @@
 
 
 # [Project-6](https://github.com/Veersen2001/Web-Projects/tree/master/Project-6)
-# [Project Live Link]()
 ## Technology
 - HTML
 - CSS
 ## Project Image
 ## Beats
+# [Project Live Link]()
 ![beats](https://user-images.githubusercontent.com/113298266/224351105-666b2162-f29a-4f34-b982-5c96032426d1.png)
 
 ## Multi-page
+# [Project Live Link]()
 ![multi-1](https://user-images.githubusercontent.com/113298266/224351407-31bd8885-e4fe-4c16-940a-fcb64e02e309.png)
 ![multi-2](https://user-images.githubusercontent.com/113298266/224351693-d0b50c9b-5a6c-4a0d-a9c8-3ae2290929e3.png)
 
 ## Real Estate
+# [Project Live Link]()
 
 ![house-1](https://user-images.githubusercontent.com/113298266/224352021-573feaba-e3ed-4945-a220-0ac3099a553b.png)
 ![house-3](https://user-images.githubusercontent.com/113298266/224352095-d06125ab-eac3-46e2-bcae-3c25a89d88cb.png)
