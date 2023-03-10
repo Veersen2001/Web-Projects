@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     box-sizing: border-box;  
+}
+body{
+  
+    background: linear-gradient(rgba(0,0, 0, 0.3),rgb(9, 10, 9)),url(img/pexels-maxyne-barcel-10402282\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  
+}  
+
+/* navigation */
+nav
+{
+  
+    display: flex;
+    height: 12vh;
+    justify-content: space-between; 
+    align-items: center;
+    width: 100%;
+   
+    
+}
+
+
+nav button{
+    margin: 0 20px;
+    
+}
+nav img{
+    margin: 0 20px;
+    
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0 20px;
+    width: 30vw;
+   
+
+}
+nav ul li{
+    font-weight: 900px;
+    cursor: pointer;
+    font-size: 20px;
+    
+}
+nav ul a{
+    text-decoration: none;
+    color: yellow;
+}
+button{
+   background: #f05a5a;
+   color: white;
+   font-size: 30px;
+   border-radius: 4px;
+   border: 1px solid #f05a5a;
+   padding: 2PX 10PX;
+   font-weight: 700;
+   cursor: pointer;
+}
+
+
+
+
+/* section */
+section{
+
+    display: flex;
+    align-items: center;
+    height: 60vh;
+    
+}
+.sec
+{
+margin: auto;
+
+
+
+
+ 
+  text-align: center;
+ width: 80%;
+ height: 63vh
+  
+  
+}
+.sec h1{
+    
+    font-size: 100px;
+    margin: 12px;
+    color: rgb(220, 220, 23);
+    padding: 12px 30px;
+    font-weight: 900;
+    
+}
+section button{
+    font-size: 40px;
+    padding: 20px 40px;
+  
+}
+
+/* footer */
+footer{
+    
+    display: flex;
+    justify-content: end;
+    width: 99%;
+   
+    
+   
+}
+
+
+
+
+
+

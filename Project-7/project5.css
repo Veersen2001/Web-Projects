@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+
+/* Navigation */
+nav{
+    height: 10vh;
+   background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    
+
+}
+nav ul li{
+    color: white;
+    list-style: none;
+    margin: 0 30px;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    
+
+
+}
+ 
+#line{
+    font-size: 60px;
+    font-weight: 100;
+    cursor: none;
+}
+/* navigation Button */
+button{
+    color:#fff;
+    background-color: rgb(145, 19, 164);
+    cursor: pointer;
+
+}
+nav button{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+ nav button:hover{
+    color: rgb(218, 43, 206);
+    background-color:white;
+    transition: 1s;
+
+ }
+
+ /* Main */
+ section
+ {
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
+    height: 800px;
+    
+    
+
+ }
+ main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+ 
+.main button{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 20px 13px;
+    border-radius: 10px;
+    margin: 50px;
+    border: 1px solid  rgb(145, 19, 164);
+}
+
+.main button:hover{
+    color: rgb(218, 43, 206);
+    background-color:white;
+    transition: 1s;
+}   
+
+
+.main h1{
+    color: white;
+    font-size: 50px;
+
+}
+.main p{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 500;
+}
+.main{
+    margin-top: 130px;
+    text-align: center;
+    
+}

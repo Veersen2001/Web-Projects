@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #edf1fd;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+
+}
+a{
+    text-decoration: none;
+    
+}
+button{
+    background-color: rgb(18,155,155);
+    padding: 4px 10px; 
+    /* top-bottom left-righ */
+    cursor: pointer;
+    color: white;
+    border: 1px solid white;
+    border-radius: 6px;
+    font-weight: 700;
+    width: fit-content;
+}
+button:hover{
+    background-color: white;
+    color: rgb(18,155,155);
+    border: 1px solid black;
+
+}
+
+header{
+    padding: 15px 0;
+
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav .logo{
+    font-weight: 700;
+    font-size: 25px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-weight: 500;
+}
+nav ul li:hover{
+    font-weight: 900;
+    text-decoration: none;
+
+
+}
+.search{
+    display: flex;
+    gap: 40px;
+}
+input{
+    padding: 4px 10px;
+    border-radius: 5px;
+}
+
+.sec{
+    display: flex;
+    align-items: center;
+}
+.left{
+    width: 60%;
+    padding: 0 8%;
+
+}
+.left h1{
+    font-weight: 800;
+    font-size: 40px;
+    margin-bottom: 16px;
+
+}
+.left h1 span{
+    color:rgb(18,155,155);
+    font-weight: 900;
+    background-color: #DFDFE0;
+    padding: 0 15px;
+}
+.left p{
+    font-weight: 500px;
+    font-size: 30px;
+
+}
+.left p span{
+    color: rgb(18,155,155);
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-items: center;
+    gap: 30px;
+    justify-content: center;
+}
+
+.chat{
+   display: flex;
+   align-items: center;
+   gap: 30px;
+}
+
+.right img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 1px solid rgb(210, 201, 201);
+
+}
+
+footer{
+    font-weight: 600;
+    display: flex;
+    padding: 20px 0;
+    justify-content: space-around;
+   
+}
+footer P{
+    font-size: 20px;
+}
+
+footer ul{
+    display: flex;
+    align-items: center;
+    gap:50px;
+}
+footer ul li{
+    font-size: 50px;
+   
+}
+footer ul li a i{
+    color: black;
+}

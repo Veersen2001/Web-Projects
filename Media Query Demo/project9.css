@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    
+}
+body{
+    background-color: rgb(145, 246, 207);
+}
+/* this is used to 1440 and less 1440 */
+@media screen and (max-width:1440px) {
+    body{
+       background: limegreen;
+    }
+    h1::after{
+        content: 'Screen-size:1440px';
+        
+    }
+    
+}
+/* this is used to 1024 and less 1024 */
+@media screen and (max-width:1024px) {
+    body{
+        background: rgb(227, 100, 8);
+     }
+     h1::after{
+         content: 'Screen-size:1024px';
+         
+     }
+     
+    
+}
+/* this is used to 768 and less 768*/
+@media screen and (max-width:768px) {
+    body{
+        background: rgb(47, 195, 211);
+     }
+     h1::after{
+         content: 'Screen-size:768px';
+         
+     }
+     
+    
+}
+/* this is used to 425 and less 425 */
+@media screen and (max-width:425px) {
+    body{
+        background: rgb(181, 30, 63);
+     }
+     h1::after{
+         content: 'Screen-size:768px';
+         
+     }
+     
+    
+}
