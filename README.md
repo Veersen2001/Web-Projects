@@ -46,7 +46,7 @@
 ![media](https://user-images.githubusercontent.com/113298266/224350463-c4f98d6e-5f6a-4954-9bd9-397a623a96d7.png)
 
 
-# [Project-4](https://github.com/Veersen2001/Web-Projects/tree/master/Project-6)
+# [Project-6](https://github.com/Veersen2001/Web-Projects/tree/master/Project-6)
 # [Project Live Link]()
 ## Technology
 - HTML
@@ -63,6 +63,17 @@
 
 ![house-1](https://user-images.githubusercontent.com/113298266/224352021-573feaba-e3ed-4945-a220-0ac3099a553b.png)
 ![house-3](https://user-images.githubusercontent.com/113298266/224352095-d06125ab-eac3-46e2-bcae-3c25a89d88cb.png)
+
+
+# [Project-7](https://github.com/Veersen2001/Web-Projects/tree/master/Project-7)
+# [Project Live Link]()
+## Technology
+- HTML
+- CSS
+## Project Image
+![Project-7](https://user-images.githubusercontent.com/113298266/224353717-77fd41fd-5662-4a71-bd52-346549010b35.png)
+
+
 
 
 
